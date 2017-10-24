@@ -2,6 +2,12 @@
 
 A CLI tool to query some stats about [`prebuild-install`](https://github.com/mafintosh/prebuild-install) downloads from github releases
 
+### Installation
+Install with:
+```
+npm install -g prebuild-stats
+```
+
 ### Usage
 
 ```
