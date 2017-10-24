@@ -1,0 +1,25 @@
+{
+  "name": "prebuild-stats",
+  "main": "index.js",
+  "bin": "index.js",
+  "version": "1.0.0",
+  "description": "A CLI tool to query some stats about prebuild-install downloads from github releases",
+  "homepage": "https://github.com/mathiask88/prebuild-stats",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mathiask88/prebuild-stats.git"
+  },
+  "keywords": ["prebuild", "prebuild-install", "stats", "cli"],
+  "author": {
+    "name": "Mathias Küsel"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "babar": "~0.1.0",
+    "simple-get": "~2.7.0",
+    "minimist": "~1.2.0"
+  }
+}
