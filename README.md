@@ -20,7 +20,7 @@ prebuild-stats author/package [options]
 
 Example
 ```
-prebuild-stats Level/leveldown
+prebuild-stats lovell/sharp
 ```
 
 ## License
