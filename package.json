@@ -9,17 +9,22 @@
     "type": "git",
     "url": "git://github.com/prebuild/prebuild-stats.git"
   },
-  "keywords": ["prebuild", "prebuild-install", "stats", "cli"],
+  "keywords": [
+    "prebuild",
+    "prebuild-install",
+    "stats",
+    "cli"
+  ],
   "author": {
     "name": "Mathias Küsel"
   },
   "engines": {
-    "node": ">=4"
+    "node": ">=10"
   },
   "license": "MIT",
   "dependencies": {
-    "babar": "~0.1.0",
-    "simple-get": "~2.7.0",
-    "minimist": "~1.2.0"
+    "babar": "^0.1.0",
+    "minimist": "^1.2.0",
+    "simple-get": "^4.0.1"
   }
 }
