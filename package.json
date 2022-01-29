@@ -23,7 +23,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "babar": "^0.1.0",
+    "babar": "^0.2.0",
     "minimist": "^1.2.0",
     "simple-get": "^4.0.1"
   }
