@@ -1,5 +1,8 @@
 # prebuild-stats
 
+> [!IMPORTANT]
+> This module is deprecated and no longer maintained, along with `prebuild` and `prebuild-install`. Please see [prebuild/prebuild-install#216](https://github.com/prebuild/prebuild-install/issues/216). Thank you!
+
 A CLI tool to query some stats about [`prebuild-install`](https://github.com/mafintosh/prebuild-install) downloads from github releases
 
 ### Installation
